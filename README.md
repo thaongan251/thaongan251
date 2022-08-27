@@ -1,8 +1,9 @@
 ### Hi there 👋☘️🌱🪴🌿🍀
 
-![thumb-up-kid-pixel](https://media3.giphy.com/media/NlVbLJeCTA7El1HwgE/200w.gif?cid=82a1493b4k3fo69ts9dc9blwd6hpit8jopxhvvr6d5tfjnlk&rid=200w.gif&ct=g)
+<p align="center">
+  <img src="https://media3.giphy.com/media/NlVbLJeCTA7El1HwgE/200w.gif?cid=82a1493b4k3fo69ts9dc9blwd6hpit8jopxhvvr6d5tfjnlk&rid=200w.gif&ct=g" alt="thumb-up-kid-pixel"/>
+</p>
 
-![fall-to-bug](https://i.pinimg.com/originals/15/d0/10/15d010289bd72aebeadde185049ddf47.gif)
 
 <!--
 **thaongan251/thaongan251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![press-any-key](https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif)
+![fall-to-bug](https://i.pinimg.com/originals/15/d0/10/15d010289bd72aebeadde185049ddf47.gif)
 
 -->
